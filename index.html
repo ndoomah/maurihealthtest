@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  	<title>Maurihealth test</title>
+  </head>
+  <body>
+  	<form>
+
+
+                <label style="font-size: 20px"><strong>Disease type:</strong></label>
+                <div id="disease_selection">
+                <table>
+                  <tr>
+                    <td> <input type="radio" name="diseasetype" value="Influenza" required="required" > 
+                   </td>
+                    <td style="text-indent: 30px; font-size: 18px">Influenza</td>
+                  </tr><tr>
+                    <td> <input type="radio" name="diseasetype" value="Gastro"> </td>
+                    <td style="text-indent: 30px; font-size: 18px">Gastroenteritis</td>
+                  </tr>
+                  <tr>
+                    <td> <input type="radio" name="diseasetype" value="Conjunctivitis"> </td>
+                    <td style="text-indent: 30px; font-size: 18px">Conjunctivitis</td>
+                  </tr><tr>
+                    <td> <input type="radio" name="diseasetype" value="UTR"> </td>
+                    <td style="text-indent: 30px; font-size: 18px">Upper Tract Respiratory infection</td>
+                  </tr>
+                </table>
+              </div>
+                <br><br>
+                <table cellpadding="8px">
+                  <tr><td>
+                <label style="font-size: 20px"><strong>Location:</strong></label></td>
+                <td style="text-indent: 30px;">
+                <input type = "text" name="location" id="loc" placeholder="e.g Port Louis" required="required" font-size: 18px">
+              </td></tr>
+                <tr><td>
+                <label style="font-size: 20px"><strong>Date:</strong></label></td>
+                <td style="text-indent: 30px;">
+                <input type="date" name="date" id="date" required="required"></td></tr>
+                <tr><td>
+                <label style="font-size: 20px"><strong>Additional information:</strong></label></td>
+                <td style="text-indent: 30px;">
+                <textarea id="msg"></textarea></td>
+                </tr></table>
+                
+                <div id="success"></div>
+                <button type="submit">Submit</button>
+              </form>
+              <br>
+              <button id="submitBtn">Submit</button>
+              <script>
+    document.getElementbyId("submitBtn").addEventListener("click", function(){
+      var btnText = document.getElementbyId("submitBtn");
+              btnText.innerHTML = "Submitted";
+ }); </script>
+</body>
+</html>
