@@ -49,7 +49,6 @@ m.save("map.html")
 
 gmap = gmplot.GoogleMapPlotter(-20, 57, 10)
 gmap.marker(lat, long, "FF0000")
-gmap.apikey= "AIzaSyCrkmbbkLKjueL9WINp_CQf-nn49VfvRlA"
 
 gmap.draw("my_map2.html")"""
 
