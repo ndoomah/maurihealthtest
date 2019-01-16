@@ -56,10 +56,11 @@ preferences = {
 options.add_experimental_option("prefs", preferences)
 
 
-browser = webdriver.Chrome(
+"""browser = webdriver.Chrome(
     executable_path=executable_path,
     chrome_options=options,
-    )
+    )"""
+browser = webdriver.Firefox(executable_path='your\path\geckodriver.exe')
 browser.wait = WebDriverWait(browser, WAIT_TIME)
 
 
