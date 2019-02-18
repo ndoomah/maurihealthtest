@@ -1,0 +1,195 @@
+date,disease,id
+2017-06-07,influenza,5c61ce69ff075807fc4786ea
+2018-04-16,influenza,5c61ce71ff075807fc4789e1
+2017-06-01,influenza,5c61ce79ff075807fc478c78
+2012-01-14,influenza,5c61ce7dff075807fc478da6
+2017-06-08,influenza,5c61ce81ff075807fc478ebd
+2018-10-27,influenza,5c61ce85ff075807fc47902c
+2017-06-07,influenza,5c61ce89ff075807fc47912e
+2017-06-04,influenza,5c61ce91ff075807fc4793fd
+2019-02-03,influenza,5c61ce95ff075807fc479515
+2019-01-27,influenza,5c61ce9dff075807fc4797d3
+2017-11-12,influenza,5c61cea1ff075807fc479925
+2018-11-27,influenza,5c61cea5ff075807fc479a7e
+2016-01-01,influenza,5c61cea9ff075807fc479baf
+2019-02-11,gastroenteritis,5c61ceacff075807fc479cdb
+2019-02-10,gastroenteritis,5c61ceb0ff075807fc479e85
+2019-02-11,gastroenteritis,5c61ceb4ff075807fc479f95
+2019-02-07,gastroenteritis,5c61ceb8ff075807fc47a104
+2019-02-07,gastroenteritis,5c61cebcff075807fc47a227
+2019-02-10,gastroenteritis,5c61cec0ff075807fc47a327
+2019-01-13,gastroenteritis,5c61cec4ff075807fc47a4c5
+2017-07-21,gastroenteritis,5c61cec8ff075807fc47a5d2
+2015-07-06,gastroenteritis,5c61ceccff075807fc47a6d3
+2018-06-02,gastroenteritis,5c61ced0ff075807fc47a939
+2018-01-07,gastroenteritis,5c61ced4ff075807fc47aa59
+2016-09-24,gastroenteritis,5c61ced8ff075807fc47ab77
+2017-04-25,gastroenteritis,5c61cedcff075807fc47ad13
+2016-10-07,gastroenteritis,5c61cee0ff075807fc47ae02
+2016-03-02,gastroenteritis,5c61cee4ff075807fc47af83
+2018-09-04,gastroenteritis,5c61cee8ff075807fc47b103
+2016-06-22,gastroenteritis,5c61ceecff075807fc47b244
+2016-09-23,gastroenteritis,5c61cef0ff075807fc47b3c6
+2017-09-23,gastroenteritis,5c61cef4ff075807fc47b4cc
+2017-06-05,gastroenteritis,5c61cef8ff075807fc47b5db
+2017-02-03,gastroenteritis,5c61cefcff075807fc47b74d
+2017-02-16,gastroenteritis,5c61cf00ff075807fc47b865
+2018-11-09,gastroenteritis,5c61cf04ff075807fc47b9b1
+2019-01-22,gastroenteritis,5c61cf08ff075807fc47bb24
+2017-04-09,gastroenteritis,5c61cf0cff075807fc47bc3b
+2017-12-16,gastroenteritis,5c61cf10ff075807fc47bdb1
+2019-01-10,gastroenteritis,5c61cf14ff075807fc47bead
+2017-10-26,gastroenteritis,5c61cf18ff075807fc47c071
+2019-02-07,gastroenteritis,5c61cf1cff075807fc47c168
+2016-03-19,gastroenteritis,5c61cf20ff075807fc47c2c0
+2017-10-14,gastroenteritis,5c61cf24ff075807fc47c47b
+2018-03-18,gastroenteritis,5c61cf28ff075807fc47c582
+2016-12-23,gastroenteritis,5c61cf2cff075807fc47c6fb
+2015-10-24,gastroenteritis,5c61cf30ff075807fc47c804
+2018-11-16,gastroenteritis,5c61cf34ff075807fc47c911
+2017-08-29,gastroenteritis,5c61cf38ff075807fc47ca86
+2018-01-28,gastroenteritis,5c61cf3bff075807fc47cb73
+2018-07-26,gastroenteritis,5c61cf3fff075807fc47ccca
+2017-07-20,gastroenteritis,5c61cf43ff075807fc47ce48
+2016-09-20,gastroenteritis,5c61cf47ff075807fc47cf71
+2017-11-22,gastroenteritis,5c61cf4bff075807fc47d100
+2017-12-22,gastroenteritis,5c61cf4fff075807fc47d223
+2014-08-26,gastroenteritis,5c61cf53ff075807fc47d346
+2017-09-08,gastroenteritis,5c61cf57ff075807fc47d4cb
+2016-10-05,gastroenteritis,5c61cf5bff075807fc47d60a
+2013-03-31,gastroenteritis,5c61cf5fff075807fc47d789
+2014-08-09,gastroenteritis,5c61cf63ff075807fc47d907
+2014-08-10,gastroenteritis,5c61cf67ff075807fc47da2e
+2012-02-07,gastroenteritis,5c61cf6bff075807fc47db5e
+2014-09-11,gastroenteritis,5c61cf6fff075807fc47dcb4
+2015-01-23,gastroenteritis,5c61cf73ff075807fc47ddd5
+2015-07-22,gastroenteritis,5c61cf77ff075807fc47df63
+2014-12-08,gastroenteritis,5c61cf7bff075807fc47e09b
+2015-04-07,gastroenteritis,5c61cf7fff075807fc47e1a0
+2015-01-10,gastroenteritis,5c61d062ff075807fc482e9a
+2016-08-22,gastroenteritis,5c61d066ff075807fc4830a6
+2014-02-25,gastroenteritis,5c61d06aff075807fc483326
+2015-12-20,gastroenteritis,5c61d06eff075807fc4835be
+2012-06-11,gastroenteritis,5c61d072ff075807fc4837f9
+2013-01-20,gastroenteritis,5c61d076ff075807fc483923
+2011-07-15,gastroenteritis,5c61d07aff075807fc483ab6
+2013-07-23,gastroenteritis,5c61d07eff075807fc483c07
+2016-01-18,gastroenteritis,5c61d082ff075807fc483d6d
+2018-09-18,conjunctivitis,5c61d086ff075807fc483e93
+2012-09-07,conjunctivitis,5c61d08aff075807fc48403f
+2015-03-13,conjunctivitis,5c61d08eff075807fc484296
+2015-08-04,conjunctivitis,5c61d092ff075807fc4843d9
+2016-09-21,conjunctivitis,5c61d096ff075807fc484538
+2015-05-26,conjunctivitis,5c61d09aff075807fc4846a9
+2018-06-23,conjunctivitis,5c61d09eff075807fc4847e9
+2015-03-21,conjunctivitis,5c61d0a2ff075807fc484979
+2019-01-23,conjunctivitis,5c61d0a6ff075807fc484b21
+2015-03-08,conjunctivitis,5c61d0aaff075807fc484c4f
+2012-02-13,conjunctivitis,5c61d0afff075807fc484e6f
+2015-03-16,conjunctivitis,5c61d0b3ff075807fc484f8f
+2016-11-23,conjunctivitis,5c61d0b7ff075807fc485083
+2015-03-16,conjunctivitis,5c61d0baff075807fc485295
+2018-01-27,conjunctivitis,5c61d0beff075807fc4853ea
+2019-02-07,respiratory infection,5c61d0c2ff075807fc485615
+2017-06-08,respiratory infection,5c61d0c6ff075807fc485760
+2018-06-06,respiratory infection,5c61d0caff075807fc4858d3
+2017-10-26,respiratory infection,5c61d0ceff075807fc485a7f
+2017-07-05,respiratory infection,5c61d0d6ff075807fc485cc8
+2017-12-05,respiratory infection,5c61d0daff075807fc485e83
+2017-06-08,respiratory infection,5c61d0deff075807fc485f7a
+2017-10-27,respiratory infection,5c61d0e2ff075807fc486130
+2017-10-27,respiratory infection,5c61d0e6ff075807fc486248
+2017-10-28,respiratory infection,5c61d0eaff075807fc48635f
+2018-10-05,respiratory infection,5c61d0eeff075807fc4864d6
+2018-08-01,respiratory infection,5c61d0f6ff075807fc486791
+2018-09-29,respiratory infection,5c61d0faff075807fc4868cc
+2018-07-17,respiratory infection,5c61d0feff075807fc4869c4
+2016-08-02,respiratory infection,5c61d102ff075807fc486baf
+2016-10-27,respiratory infection,5c61d106ff075807fc486d00
+2018-10-11,respiratory infection,5c61d10aff075807fc486e17
+2018-04-02,respiratory infection,5c61d10eff075807fc486f89
+2016-01-24,respiratory infection,5c61d112ff075807fc4870a5
+2018-03-12,respiratory infection,5c61d116ff075807fc48720b
+2015-06-12,respiratory infection,5c61d11aff075807fc48739f
+2016-12-05,respiratory infection,5c61d11eff075807fc4874cc
+2016-05-24,respiratory infection,5c61d122ff075807fc487695
+2017-10-27,respiratory infection,5c61d126ff075807fc4877d9
+2015-09-17,respiratory infection,5c61d12aff075807fc487929
+2017-10-28,respiratory infection,5c61d12eff075807fc487add
+2017-10-27,respiratory infection,5c61d132ff075807fc487bec
+2017-10-29,respiratory infection,5c61d136ff075807fc487d58
+2017-10-28,respiratory infection,5c61d13aff075807fc487ea6
+2017-11-05,respiratory infection,5c61d13eff075807fc488009
+2017-10-26,respiratory infection,5c61d146ff075807fc4882bd
+2015-03-02,respiratory infection,5c61d14aff075807fc4883c3
+2013-08-01,respiratory infection,5c61d14eff075807fc488526
+2014-11-03,respiratory infection,5c61d152ff075807fc488684
+2015-01-25,respiratory infection,5c61d155ff075807fc488796
+2012-12-10,respiratory infection,5c61d15aff075807fc488900
+2009-10-08,respiratory infection,5c61d15dff075807fc4889f7
+2014-08-07,respiratory infection,5c61d162ff075807fc488b93
+2014-10-08,respiratory infection,5c61d166ff075807fc488d0a
+2014-08-10,respiratory infection,5c61d16aff075807fc488e72
+2009-10-22,respiratory infection,5c61d16eff075807fc488fc2
+2014-11-14,respiratory infection,5c61d172ff075807fc4890db
+2013-07-11,respiratory infection,5c61d176ff075807fc489258
+2014-10-11,respiratory infection,5c61d17aff075807fc48940f
+2012-11-15,respiratory infection,5c61d17fff075807fc48954a
+2011-07-26,respiratory infection,5c61d183ff075807fc4896d5
+2010-02-17,respiratory infection,5c61d187ff075807fc4897d0
+2013-12-28,respiratory infection,5c61d192ff075807fc489b64
+2014-01-30,respiratory infection,5c61d19aff075807fc489e3b
+2019-01-27,influenza,5c629322ff075807fc7b606f
+2019-02-09,influenza,5c629326ff075807fc7b615e
+2019-01-30,gastroenteritis,5c629333ff075807fc7b6563
+2019-01-09,gastroenteritis,5c62933bff075807fc7b6763
+2019-01-29,gastroenteritis,5c629340ff075807fc7b68b1
+2019-01-17,gastroenteritis,5c629344ff075807fc7b69ac
+2019-01-28,conjunctivitis,5c629348ff075807fc7b6b16
+2019-01-11,respiratory infection,5c62934cff075807fc7b6c0a
+2019-02-07,respiratory infection,5c629350ff075807fc7b6d45
+2019-02-16,influenza,5c67fd5bff075807fcdec33b
+2019-02-16,conjunctivitis,5c680a35ff075807fce132c0
+2019-02-13,gastroenteritis,5c6821adff075807fce5a806
+2019-02-16,influenza,5c6823ddff075807fce6373e
+2019-02-16,gastroenteritis,5c682a83634a3c00825ae562
+2019-02-16,conjunctivitis,5c683082634a3c0084057aa2
+2019-02-16,gastroenteritis,5c6830db634a3c008327b822
+2019-01-16,gastroenteritis,5c6831de634a3c00853b9932
+2019-02-16,influenza,5c683205634a3c00825ae563
+2019-02-17,gastroenteritis,5c690a98422aa200847bf502
+2019-02-17,upper tract respiratory infection,5c690ac4422aa200836814f2
+2019-02-17,conjunctivitis,5c690b0c422aa20082669412
+2019-02-17,influenza,5c690b2f422aa200854a2332
+2019-02-17,influenza,5c690c19422aa200847bf503
+2019-02-17,gastroenteritis,5c690c2c422aa200836814f3
+2019-02-17,gastroenteritis,5c690d4f422aa20082669413
+2019-02-17,influenza,5c690d5f422aa200854a2333
+2019-02-04,conjunctivitis,5c690ebc422aa200847bf504
+2019-02-17,influenza,5c6912f6422aa200836814f4
+2019-02-17,conjunctivitis,5c69130c422aa20082669414
+2019-02-17,gastroenteritis,5c691430422aa200854a2334
+2019-02-17,gastroenteritis,5c691fa06e558e0082788af2
+2019-02-17,conjunctivitis,5c691fb66e558e00832d7e22
+2019-02-17,influenza,5c6920e06e558e008458d7d2
+2019-02-17,upper tract respiratory infection,5c6921736e558e00853a09a2
+2019-02-06,upper tract respiratory infection,5c6921ae6e558e0082788af3
+2019-02-17,influenza,5c692a036e558e00832d7e23
+2019-02-17,gastroenteritis,5c692a525e58d500821d4192
+2019-02-17,influenza,5c692b155e58d500832049a2
+2019-02-17,conjunctivitis,5c692bca5e58d5008459b4d2
+2019-02-01,influenza,5c54a13b4ef6eb92c9182689
+2019-01-31,influenza,5c54a1414ef6eb92c9182950
+2019-01-30,gastroenteritis,5c54a1464ef6eb92c9182ccb
+2019-01-30,gastroenteritis,5c54a14b4ef6eb92c9182f95
+2019-01-30,influenza,5c54a1514ef6eb92c918334a
+2019-01-25,influenza,5c54a1574ef6eb92c91836fb
+2019-01-25,influenza,5c54a15d4ef6eb92c9183a64
+2019-01-25,influenza,5c54a1634ef6eb92c9183e6f
+2019-01-24,gastroenteritis,5c54a1684ef6eb92c91841a0
+2019-02-04,influenza,5c59c9fa4ef6eb92c9b8a563
+2019-02-04,influenza,5c59ca004ef6eb92c9b8a7c3
+2019-02-04,respiratoryInfection,5c59ca064ef6eb92c9b8aa0a
+2019-02-01,influenza,5c5b00964ef6eb92c923b010
+2019-02-01,gastroenteritis,5c5b009a4ef6eb92c923b11f
+2019-02-10,influenza,5c616019ff075807fc27ea19
