@@ -21,5 +21,5 @@
 - NewsPapers >> json file that contains newspaper links/rss feeds
 - analyse_articles >> validation of each article for storage on cloud
 
-<<MAIN>>
+-- MAIN
 [purpose: to run fb_realtime & news_scraper in parallel]
