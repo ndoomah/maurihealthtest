@@ -4,7 +4,7 @@
 - data analysis >> takes as input data.csv and outputs prediction graphs for each disease (through rpredict function in prediction.R)
 - prediction >> implementation of rpredict function (use of R package prophet) 
 
-^ Requirements to run data_analysis.py:
+## Requirements to run data_analysis.py:
 - installation of Rtools.exe (https://cran.r-project.org/bin/windows/Rtools/)
 - R 3.5 
 
@@ -29,9 +29,10 @@
 - app.py >> main stuff, runs the flask server and starts the threading for listening to any inserts/updates on the database 'test' in mongodb atlas.
 - templates directory >> contains necessary plugins for the map html page.
 
-^ Requirements for app.py:
+## Requirements for app.py:
 - create a virtual environment for the project
 - install flask, flask-socketio packages.
 
--- MAIN
+## MAIN
 [purpose: to run fb_realtime & news_scraper in parallel]
+(not yet implemented)
