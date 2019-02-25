@@ -1,8 +1,12 @@
 *Analysis*
 
 - text analysis >> data cleaning and pre processing
-- data analysis >> computes total number of cases for each disease based on date
-- prediction >> implementation of R package prophet 
+- data analysis >> takes as input data.csv and outputs prediction graphs for each disease (through rpredict function in prediction.R)
+- prediction >> implementation of rpredict function (use of R package prophet) 
+
+^ Requirements to run data_analysis.py:
+- installation of Rtools.exe (https://cran.r-project.org/bin/windows/Rtools/)
+- R 3.5 
 
 *Mongodb_atlas*
 
@@ -20,6 +24,14 @@
 - NewsScraper >> main program (extracts maximum four articles from each newspaper and then saves results to scraped_articles.json)
 - NewsPapers >> json file that contains newspaper links/rss feeds
 - analyse_articles >> validation of each article for storage on cloud
+
+*Flask App* (to be added)
+- app.py >> main stuff, runs the flask server and starts the threading for listening to any inserts/updates on the database 'test' in mongodb atlas.
+- templates directory >> contains necessary plugins for the map html page.
+
+^ Requirements for app.py:
+- create a virtual environment for the project
+- install flask, flask-socketio packages.
 
 -- MAIN
 [purpose: to run fb_realtime & news_scraper in parallel]
