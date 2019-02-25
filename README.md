@@ -28,9 +28,8 @@
 - R 3.5 
 
 ## Flask App (to be added)
-- app.py >> main stuff, runs the flask server and starts the threading for listening to any inserts/updates on the database 'test' in mongodb atlas.
-- templates directory >> contains necessary plugins for the map html page.
+
 
 *Requirements for app.py:*
 - create a virtual environment for the project
-- install flask, flask-socketio packages.
+
