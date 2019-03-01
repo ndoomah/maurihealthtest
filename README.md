@@ -1,37 +1,35 @@
-*Analysis*
 
-- text analysis >> data cleaning and pre processing
-- data analysis >> takes as input data.csv and outputs prediction graphs for each disease (through rpredict function in prediction.R)
-- prediction >> implementation of rpredict function (use of R package prophet) 
-
-^ Requirements to run data_analysis.py:
-- installation of Rtools.exe (https://cran.r-project.org/bin/windows/Rtools/)
-- R 3.5 
-
-*Mongodb_atlas*
-
-- connect_db >> methods to save data on cloud, and to retrieve data from cloud
-- export_data >> exports data from all collections to csv file
-
-*Facebook*
+## Webscraper
+### Facebook
 
 - fb_scraper >> to extract previous/archived posts about each disease from fb
 - fb_realtime >> runs continuously to extract recent posts in real time
 - fb_methods >> generic selenium methods to construct bot scraper
 
-*News_scraper*
+### News_scraper 
 
 - NewsScraper >> main program (extracts maximum four articles from each newspaper and then saves results to scraped_articles.json)
 - NewsPapers >> json file that contains newspaper links/rss feeds
 - analyse_articles >> validation of each article for storage on cloud
 
-*Flask App* (to be added)
-- app.py >> main stuff, runs the flask server and starts the threading for listening to any inserts/updates on the database 'test' in mongodb atlas.
-- templates directory >> contains necessary plugins for the map html page.
+## Storage- Mongodb_atlas
 
-^ Requirements for app.py:
+- connect_db >> methods to save data on cloud, and to retrieve data from cloud
+- export_data >> exports data from all collections to csv file
+
+## Analysis
+
+- text analysis >> data cleaning and pre processing
+- data analysis >> takes as input data.csv and outputs prediction graphs for each disease (through rpredict function in prediction.R)
+- prediction >> implementation of rpredict function (use of R package prophet) 
+
+*Requirements to run data_analysis.py:*
+- installation of Rtools.exe (https://cran.r-project.org/bin/windows/Rtools/)
+- R 3.5 
+
+## Flask App (to be added)
+
+
+*Requirements for app.py:*
 - create a virtual environment for the project
-- install flask, flask-socketio packages.
 
--- MAIN
-[purpose: to run fb_realtime & news_scraper in parallel]
